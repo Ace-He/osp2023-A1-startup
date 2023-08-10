@@ -17,4 +17,4 @@ void* writer::runner(void* arg) { return nullptr; }
 
 void writer::append(const std::string& line) {}
 
-void writer::setfinished() {}
+//void writer::setfinished() {}
