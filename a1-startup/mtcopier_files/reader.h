@@ -10,7 +10,7 @@
 #ifndef READER
 #define READER
 class reader {
-   public:
+public:
     /* this class has a bunch of static (which means shared in a class)
      * because we need to share the state between threads. For example, we
      * are reading from the same file, should have the same locks for all
@@ -37,11 +37,14 @@ class reader {
     /**
      * there may be other functions you need so declare them.
      **/
+    ~reader();
+    pthread_t getThread() const;
 
-   private:
+private:
     static std::ifstream in;
     /**
      * There may be other private instance data you need so declare those here.
      **/
+    pthread_t thread;
 };
 #endif

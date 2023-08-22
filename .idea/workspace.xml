@@ -10,7 +10,9 @@
     <option name="reloaded" value="true" />
   </component>
   <component name="CMakeRunConfigurationManager">
-    <generated />
+    <generated>
+      <config projectName="osp2023_A1_startup" targetName="osp2023_A1_startup" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -19,11 +21,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca9b6ceb-8d97-4307-85ec-ed3295a60b58" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/a1-startup/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/a1-startup/copier_files/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/a1-startup/copier_files/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1-startup/mtcopier_files/global_data.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1-startup/copier_files/Ace77" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1-startup/copier_files/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/a1-startup/copier_files/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1-startup/copier_files/copier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1-startup/copier_files/main.o" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/a1-startup/copier_files/reader.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/a1-startup/copier_files/reader.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1-startup/copier_files/reader.o" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/a1-startup/copier_files/writer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/a1-startup/copier_files/writer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1-startup/copier_files/writer.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1-startup/mtcopier_files/.reader.h.swp" beforeDir="false" afterPath="$PROJECT_DIR$/a1-startup/mtcopier_files/.reader.h.swp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1-startup/mtcopier_files/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/a1-startup/mtcopier_files/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1-startup/mtcopier_files/reader.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/a1-startup/mtcopier_files/reader.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1-startup/mtcopier_files/reader.h" beforeDir="false" afterPath="$PROJECT_DIR$/a1-startup/mtcopier_files/reader.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/a1-startup/mtcopier_files/writer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/a1-startup/mtcopier_files/writer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1-startup/mtcopier_files/writer.h" beforeDir="false" afterPath="$PROJECT_DIR$/a1-startup/mtcopier_files/writer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-7e707cc27cfd82b75671.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-38b09abb0e6012afeb47.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-08-10T16-44-53-0598.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-osp2023_A1_startup-Debug-f9cad52155d9797a399c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +57,9 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
@@ -51,41 +75,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/75058/Desktop/Y3 S3/OS/A1/osp2023-A1-startup/a1-startup/copier_files&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MakefileSettings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/75058/Desktop/Y3 S3/OS/A1/osp2023-A1-startup",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.fileTypes",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\75058\Desktop\Y3 S3\OS\A1\osp2023-A1-startup\a1-startup\mtcopier_files" />
       <recent name="C:\Users\75058\Desktop\Y3 S3\OS\A1\osp2023-A1-startup\a1-startup\copier_files" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\75058\Desktop\Y3 S3\OS\A1\osp2023-A1-startup\a1-startup\mtcopier_files" />
       <recent name="C:\Users\75058\Desktop\Y3 S3\OS\A1\osp2023-A1-startup" />
       <recent name="C:\Users\75058\Desktop\Y3 S3\OS\A1\osp2023-A1-startup\a1-startup" />
       <recent name="C:\Users\75058\Desktop\Y3 S3\OS\A1\osp2023-A1-startup\a1-startup\copier_files" />
     </key>
   </component>
   <component name="RunManager" selected="C/C++ 文件.main.cpp">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="osp2023_A1_startup" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
       <method v="2" />
     </configuration>
@@ -131,7 +154,19 @@
       <workItem from="1691665211886" duration="14000" />
       <workItem from="1691665270839" duration="8589000" />
       <workItem from="1691685010378" duration="566000" />
-      <workItem from="1691685822689" duration="69000" />
+      <workItem from="1691685822689" duration="145000" />
+      <workItem from="1691852611401" duration="4763000" />
+      <workItem from="1691894716654" duration="24304000" />
+      <workItem from="1691998762203" duration="946000" />
+      <workItem from="1691999833440" duration="20596000" />
+      <workItem from="1692032476197" duration="1747000" />
+      <workItem from="1692034263424" duration="684000" />
+      <workItem from="1692189688383" duration="16000" />
+      <workItem from="1692189713942" duration="11000" />
+      <workItem from="1692436290845" duration="88000" />
+      <workItem from="1692436389651" duration="16000" />
+      <workItem from="1692627450328" duration="4380000" />
+      <workItem from="1692675713391" duration="2066000" />
     </task>
     <servers />
   </component>
@@ -143,5 +178,9 @@
     <isAutomaticCheckingOnLaunch value="false" />
     <isAutomaticFoundErrors value="true" />
     <isAutomaticFoundErrors value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

@@ -26,3 +26,12 @@ void writer::run() {
 void writer::append(const std::string& line) {
     queue.push_back(line);
 }
+
+
+
+
+
+
+
+
+

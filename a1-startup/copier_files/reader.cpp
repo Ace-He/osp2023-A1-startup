@@ -5,6 +5,8 @@
 #include "reader.h"
 #include <functional>
 
+
+
 reader::reader(const std::string& name, writer& mywriter) : thewriter(mywriter) {
     in.open(name);
     if (!in.is_open()) {

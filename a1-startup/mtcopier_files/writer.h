@@ -11,7 +11,7 @@
 #ifndef WRITER
 #define WRITER
 class writer {
-   public:
+public:
     /**
      * Please note that methods and data need to be static as there's a
      * variety of information that needs to be coordinated between writers
@@ -23,10 +23,15 @@ class writer {
     static void init(const std::string& name);
     static void* runner(void*);
     void run();
-    static void append(const std::string& line);
+//    static void append(const std::string& line);
+//    void setfinished();
+    pthread_t getThread() const;
+    ~writer();
 
-   private:
+private:
     static std::ofstream out;
     static std::deque<std::string> queue;
+    pthread_t thread;
+
 };
 #endif
