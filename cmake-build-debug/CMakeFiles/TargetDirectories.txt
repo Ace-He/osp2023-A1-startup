@@ -1,3 +1,3 @@
-C:/Users/75058/Desktop/Y3 S3/OS/A1/osp2023-A1-startup/cmake-build-debug/CMakeFiles/osp2023_A1_startup.dir
-C:/Users/75058/Desktop/Y3 S3/OS/A1/osp2023-A1-startup/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/75058/Desktop/Y3 S3/OS/A1/osp2023-A1-startup/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/omnipotent_ace/Desktop/OS/osp2023-A1-startup/cmake-build-debug/CMakeFiles/osp2023_A1_startup.dir
+/Users/omnipotent_ace/Desktop/OS/osp2023-A1-startup/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/omnipotent_ace/Desktop/OS/osp2023-A1-startup/cmake-build-debug/CMakeFiles/rebuild_cache.dir

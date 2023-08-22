@@ -21,30 +21,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca9b6ceb-8d97-4307-85ec-ed3295a60b58" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a1-startup/mtcopier_files/global_data.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1-startup/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a1-startup/copier_files/Ace77" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/a1-startup/copier_files/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/a1-startup/copier_files/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a1-startup/copier_files/copier" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/a1-startup/copier_files/main.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/a1-startup/copier_files/reader.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/a1-startup/copier_files/reader.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a1-startup/copier_files/reader.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/a1-startup/copier_files/writer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/a1-startup/copier_files/writer.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a1-startup/copier_files/writer.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/a1-startup/mtcopier_files/.reader.h.swp" beforeDir="false" afterPath="$PROJECT_DIR$/a1-startup/mtcopier_files/.reader.h.swp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a1-startup/mtcopier_files/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/a1-startup/mtcopier_files/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a1-startup/mtcopier_files/reader.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/a1-startup/mtcopier_files/reader.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a1-startup/mtcopier_files/reader.h" beforeDir="false" afterPath="$PROJECT_DIR$/a1-startup/mtcopier_files/reader.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a1-startup/mtcopier_files/writer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/a1-startup/mtcopier_files/writer.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a1-startup/mtcopier_files/writer.h" beforeDir="false" afterPath="$PROJECT_DIR$/a1-startup/mtcopier_files/writer.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-7e707cc27cfd82b75671.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-38b09abb0e6012afeb47.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-08-10T16-44-53-0598.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-osp2023_A1_startup-Debug-f9cad52155d9797a399c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1-startup/copier_files/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1-startup/copier_files/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/a1-startup/copier_files/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1-startup/mtcopier_files/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1-startup/mtcopier_files/global_data.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1-startup/mtcopier_files/main.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1-startup/mtcopier_files/mtcopier" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1-startup/mtcopier_files/reader.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1-startup/mtcopier_files/writer.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-80872176dcf3543166db.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-378689b53639e4cbddab.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-02c33cd604b0225fd3d0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-08-16T12-41-55-0879.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-osp2023_A1_startup-Debug-deb2867a64cc6669ccbc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-78e8aa7a1aef0a8d9db1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +94,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/75058/Desktop/Y3 S3/OS/A1/osp2023-A1-startup",
+    "last_opened_file_path": "/Users/omnipotent_ace/Desktop/OS/osp2023-A1-startup",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -102,13 +111,19 @@
       <recent name="C:\Users\75058\Desktop\Y3 S3\OS\A1\osp2023-A1-startup\a1-startup\copier_files" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/a1-startup" />
       <recent name="C:\Users\75058\Desktop\Y3 S3\OS\A1\osp2023-A1-startup\a1-startup\mtcopier_files" />
       <recent name="C:\Users\75058\Desktop\Y3 S3\OS\A1\osp2023-A1-startup" />
       <recent name="C:\Users\75058\Desktop\Y3 S3\OS\A1\osp2023-A1-startup\a1-startup" />
       <recent name="C:\Users\75058\Desktop\Y3 S3\OS\A1\osp2023-A1-startup\a1-startup\copier_files" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ 文件.main.cpp">
+  <component name="RunManager" selected="C/C++ File.ace">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="osp2023_A1_startup" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
       <method v="2" />
     </configuration>
@@ -130,18 +145,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ 文件.ace" />
-      <item itemvalue="C/C++ 文件.main.cpp" />
-      <item itemvalue="CMake 应用程序.osp2023_A1_startup" />
-      <item itemvalue="CMake 调试.osp2023_A1_startup" />
+      <item itemvalue="C/C++ File.ace" />
+      <item itemvalue="C/C++ File.main.cpp" />
+      <item itemvalue="CMake Application.osp2023_A1_startup" />
+      <item itemvalue="CMake Debug.osp2023_A1_startup" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="C/C++ 文件.main.cpp" />
-        <item itemvalue="C/C++ 文件.ace" />
-        <item itemvalue="CMake 调试.osp2023_A1_startup" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -167,6 +175,7 @@
       <workItem from="1692436389651" duration="16000" />
       <workItem from="1692627450328" duration="4380000" />
       <workItem from="1692675713391" duration="2066000" />
+      <workItem from="1692691274528" duration="430000" />
     </task>
     <servers />
   </component>

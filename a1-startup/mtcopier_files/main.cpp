@@ -47,10 +47,6 @@ int main(int argc, char** argv) {
         return EXIT_FAILURE;
     }
 
-    // 检查-t标志
-    if (argc == 5 && std::string(argv[4]) == "-t") {
-        timingEnabled = true;
-    }
     /**
      * process command line arguments
      **/
@@ -60,15 +56,12 @@ int main(int argc, char** argv) {
          return EXIT_FAILURE;
     }
 
+    // check -t flag
+    if (argc == 5 && std::string(argv[4]) == "-t") {
+        timingEnabled = true;
+    }
+
     clock_t start = 0, end, duration;
-
-    // 初始化reader和writer的计时代码
-    if (timingEnabled) start = clock();
-
-    // get current time and print it out
-
-
-    cout << "Copy work start: " << endl;
 
     // Initialize the global mutex and condition variables
     pthread_mutex_init(&threadMutex, nullptr);
@@ -81,6 +74,7 @@ int main(int argc, char** argv) {
      * initialize the reader and writer classes
      **/
     if (timingEnabled) start = clock();
+    std::cout << "mt copier work start: " << std::endl;
 
     readers = new reader[numThreads];
     writers = new writer[numThreads];
